@@ -1,0 +1,9 @@
+{
+    "description": "this tags k8s volumes", 
+    "function": "ec2-tag-k8s-volumes", 
+    "language": "python", 
+    "memory": 256, 
+    "role": "lambda_basic_execution", 
+    "runtime": "python2.7", 
+    "timeout": 300
+}

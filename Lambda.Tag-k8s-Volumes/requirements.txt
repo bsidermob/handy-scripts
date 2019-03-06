@@ -1,0 +1,7 @@
+# Declare requirements for your Python Lambda function here.
+#
+# eg.
+# requests>=2
+#certifi==2018.04.16
+#requests-aws4auth
+#awscli
